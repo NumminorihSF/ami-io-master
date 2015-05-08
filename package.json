@@ -1,0 +1,34 @@
+{
+  "name": "ami-io-master",
+  "version": "0.1.1",
+  "description": "Simple usage of many AMI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumminorihSF/ami-io-cluster.git"
+  },
+  "keywords": [
+    "interface",
+    "iojs",
+    "ami",
+    "asterisk",
+    "manager",
+    "node",
+    "simple",
+    "cluster",
+    "remote"
+  ],
+  "author": "Konstantine Petryaev <numminorihsf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumminorihSF//ami-io-cluster/issues"
+  },
+  "homepage": "https://github.com/NumminorihSF//ami-io-clusterr#readme",
+  "dependencies": {
+    "ami-io-simple": "^0.1.2",
+    "child-watcher": "^0.2.3"
+  }
+}
